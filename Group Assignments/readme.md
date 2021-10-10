@@ -1,4 +1,5 @@
 # <hl> Group Assignment #1
+  Member Name: Demetria Murphy
 # <hl> Research Question
   TBD
  # <hl> Why This Matters and What's at Stake
