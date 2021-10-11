@@ -11,7 +11,7 @@
   # <hl> Data Sources
   * [Green Book locations by type for SoCal, 1947](https://github.com/NYPL-publicdomain/greenbook-map/tree/master/data) (Schomburg Center for Research in Black Culture at the New York Public Library)
   * [Green Book locations by type for SoCal, 1956](https://github.com/NYPL-publicdomain/greenbook-map/tree/master/data) (Schomburg Center for Research in Black Culture at the New York Public Library)
-  * Race by Census tract , Census data from 1940 and 1960
+  * Race by Census tract , Census data from [1940](https://www2.census.gov/library/publications/decennial/1940/population-volume-2/33973538v2p1ch6.pdf) and 1960
   * Median Household Income by Race by Census Tract, Census data from 1940 and 1960
   # <hl> Intended Analysis and Resulting Visualizations
 * What was the Black urban ecology of safety in post-WWII Los Angeles? What was the impact of shifts in neighborhood racial demographics on this ecology of safety?*
