@@ -9,8 +9,8 @@
  # <hl> Spatial Scope
   The spatial scope is limited to the city of Los Angeles given that I’m interested in understanding neighborhood change and black geographies in this city more deeply. This study may later extend to broader Southern California definition including but not limited to Pasadena if the dates is more robust after further investigation of the Green Book data.
   # <hl> Data Sources
-  * Green Book locations by type for SoCal, 1947 (Schomburg Center for Research in Black Culture at the New York Public Library)
-  * Green Book locations by type for SoCal, 1956 (Schomburg Center for Research in Black Culture at the New York Public Library)
+  * [Green Book locations by type for SoCal, 1947](https://github.com/NYPL-publicdomain/greenbook-map/tree/master/data) (Schomburg Center for Research in Black Culture at the New York Public Library)
+  * [Green Book locations by type for SoCal, 1956](https://github.com/NYPL-publicdomain/greenbook-map/tree/master/data) (Schomburg Center for Research in Black Culture at the New York Public Library)
   * Race by Census tract , Census data from 1940 and 1960
   * Median Household Income by Race by Census Tract, Census data from 1940 and 1960
   # <hl> Intended Analysis and Resulting Visualizations
