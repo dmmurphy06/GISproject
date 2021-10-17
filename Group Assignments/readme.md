@@ -1,4 +1,4 @@
-# <hl> Group Assignment #1
+# <hl> Group Assignment #1: Project Proposal
   Member Name: Demetria Murphy
 # <hl> Research Question
   In this assignment, I will be analyzing location data from the Green Book, a Jim-crow era Black travel guide created by former postal worker Victor Green.  The guide ran from 1936 - 1966 and 21 guides were recently digitized and open source data was released by the Schomburg Center for Research in Black Culture at the New York Public Library. 
