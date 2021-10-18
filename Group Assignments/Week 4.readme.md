@@ -8,7 +8,7 @@
     * **P40T** used to calculate percentage of Black non-white population.
   * **P60B:** Population Black non-White, 1960
     * **P60T** used to calculate percentage of Black non-white population.
-  * *I will consult 1950 as an informative datapoint, but this project is focused on the change explicitly before and after racially restrictive covenants were struck down in the 1948 **Shelley v. Kramer** decision.**
+  * *I will consult 1950 as an informative datapoint, but this project is focused on the change explicitly before and after racially restrictive covenants were struck down in the 1948 *Shelley v. Kramer* decision.**
 # <hl> Concerns
 Given that median household income data does not begin until 1970, I am thinking of a couple approaches.
   * Continue to explore Social Explorer for Median Household Income for 1940-1960 (hopefully by Census tract)
