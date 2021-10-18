@@ -20,5 +20,5 @@ Given that median household income data does not begin until 1970, I am thinking
     * **HyyMVL:**	Median value of dwelling/housing units
     * **HyyMRN:**	Housing Median Rent of Unit
 
-  *I would love your insight on feedback on these potential proxies for income.*
+  *I would love your insight on feedback on these potential proxies for income and how to use them.*
 Additionally, I am thinking through which overlays would best to layer over the GreenBook location data to speak to the question raised around shifts in landscapes of safety.
